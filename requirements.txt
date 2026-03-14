@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+langgraph
+openai
+neo4j
+qdrant-client
+sentence-transformers
+python-dotenv
+requests
+langfuse
